@@ -7,6 +7,6 @@ export const siteConfig: SiteConfig = {
   ogImage: "https://cnfttoolkit.com/assets/og.png",
   links: {
     twitter: "https://twitter.com/cnfttoolkit",
-    github: "https://github.com/cnfttools/cnft-tools",
+    github: "https://github.com/solanatoolkit/cnft-toolkit",
   },
 }
